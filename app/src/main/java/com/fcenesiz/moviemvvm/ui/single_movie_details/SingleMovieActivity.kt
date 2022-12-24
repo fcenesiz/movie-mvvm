@@ -3,7 +3,6 @@ package com.fcenesiz.moviemvvm.ui.single_movie_details
 import android.icu.text.NumberFormat
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.view.View
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModel
